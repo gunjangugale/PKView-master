@@ -1,0 +1,8 @@
+"Obs","analyte","comparison","parameter","Reference_L","EstType","ratio","lcl","ucl"
+"1","DRUG","DRUG 20 MG ~vs~ DRUG 10 MG","AUC0_T","DRUG 10 MG","paired",3.1823,1.8296,5.5350
+"2","DRUG","DRUG 20 MG ~vs~ DRUG 10 MG","CMAX","DRUG 10 MG","paired",2.0453,1.2643,3.3087
+"3","DRUG","DRUG 40 MG ~vs~ DRUG 10 MG","AUC0_T","DRUG 10 MG","paired",9.7024,7.1871,13.0978
+"4","DRUG","DRUG 40 MG ~vs~ DRUG 10 MG","CMAX","DRUG 10 MG","paired",4.3211,3.2549,5.7364
+"5","DRUG","DRUG 80 MG ~vs~ DRUG 10 MG","AUC0_T","DRUG 10 MG","paired",17.8062,13.0289,24.3351
+"6","DRUG","DRUG 80 MG ~vs~ DRUG 10 MG","CMAX","DRUG 10 MG","paired",7.8247,6.0343,10.1461
+

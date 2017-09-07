@@ -1,0 +1,20 @@
+"",,,,,,"Results of Ratio and 90% CI",,
+"Analyte","Cohorts","Comparison","reference_listed","Estimated Parameters","Paired or Unpaired","Ratio","Lower Limit","Upper Limit"
+"DRUG",1,"DRUG 10 MG ~vs~ DRUG 40 MG","DRUG 40 MG","AUC0_T","paired",0.1031,0.0763,0.1391
+,1,"DRUG 10 MG ~vs~ DRUG 40 MG","DRUG 40 MG","CMAX","paired",0.2314,0.1743,0.3072
+,1,"DRUG 20 MG ~vs~ DRUG 40 MG","DRUG 40 MG","AUC","paired",0.4084,0.2587,0.6448
+,1,"DRUG 20 MG ~vs~ DRUG 40 MG","DRUG 40 MG","AUC0_T","paired",0.3280,0.1872,0.5748
+,1,"DRUG 20 MG ~vs~ DRUG 40 MG","DRUG 40 MG","CMAX","paired",0.4733,0.2970,0.7544
+,1,"DRUG 40 MG ~vs~ DRUG 40 MG","DRUG 40 MG","AUC","paired",1.0000,".","."
+,1,"DRUG 80 MG ~vs~ DRUG 40 MG","DRUG 40 MG","AUC","paired",1.6929,1.1955,2.3972
+,1,"DRUG 80 MG ~vs~ DRUG 40 MG","DRUG 40 MG","AUC0_T","paired",1.8352,1.3198,2.5519
+,1,"DRUG 80 MG ~vs~ DRUG 40 MG","DRUG 40 MG","CMAX","paired",1.8108,1.4522,2.2580
+,1,"DRUG 10 MG ~vs~ DRUG 40 MG","DRUG 40 MG","AUC","unpaired",0.2413,0.1634,0.3561
+,1,"DRUG 10 MG ~vs~ DRUG 40 MG","DRUG 40 MG","AUC0_T","unpaired",0.1031,0.0671,0.1582
+,1,"DRUG 10 MG ~vs~ DRUG 40 MG","DRUG 40 MG","CMAX","unpaired",0.2314,0.1621,0.3305
+,1,"DRUG 20 MG ~vs~ DRUG 40 MG","DRUG 40 MG","AUC","unpaired",0.5907,0.4002,0.8719
+,1,"DRUG 20 MG ~vs~ DRUG 40 MG","DRUG 40 MG","AUC0_T","unpaired",0.3280,0.2136,0.5036
+,1,"DRUG 20 MG ~vs~ DRUG 40 MG","DRUG 40 MG","CMAX","unpaired",0.4733,0.3314,0.6759
+,1,"DRUG 80 MG ~vs~ DRUG 40 MG","DRUG 40 MG","AUC0_T","unpaired",1.8352,1.1647,2.8919
+,1,"DRUG 80 MG ~vs~ DRUG 40 MG","DRUG 40 MG","CMAX","unpaired",1.8108,1.2409,2.6425
+
