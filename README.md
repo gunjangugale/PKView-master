@@ -19,7 +19,7 @@ The PKView platform consists of the following components
 
 # Sample Outputs
 
-1. Side-by-side comparison of Source vs Default analysis outcomes
+1. Side-by-side comparison of Source vs Audit analysis outcomes
 2. Standard cohort of tables and figures for typical clinical reports
 3. Forest plot for drug labels
 4. Study conduct integrity evaluation

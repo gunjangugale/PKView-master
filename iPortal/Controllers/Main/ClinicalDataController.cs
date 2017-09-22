@@ -13,7 +13,7 @@ using System.Linq;
 
 namespace iPortal.Controllers
 {
-    public class ClinicalDataController : ApiController 
+    public class ClinicalDataController : ApiController
     {
         /// <summary>
         /// 

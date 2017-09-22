@@ -764,6 +764,8 @@
     <Content Include="Content\templates\PkView\macrolib.sas" />
     <Content Include="Content\templates\PkView\MetaForestPlot.sas" />
     <None Include="Properties\PublishProfiles\Dev.pubxml" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
+    <None Include="Properties\PublishProfiles\gunjan test.pubxml" />
     <None Include="Properties\PublishProfiles\Peter install test 6-27.pubxml" />
     <None Include="Properties\PublishProfiles\Production.pubxml" />
     <None Include="Properties\PublishProfiles\Test.pubxml" />
