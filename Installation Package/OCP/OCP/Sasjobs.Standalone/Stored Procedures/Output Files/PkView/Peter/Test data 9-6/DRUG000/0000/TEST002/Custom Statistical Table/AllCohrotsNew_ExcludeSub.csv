@@ -1,5 +1,0 @@
-"Obs","analyte","comparison","parameter","Reference_L","EstType","ratio","lcl","ucl"
-"1","DRUG X","FED ~vs~ FASTED","AUC","FASTED","paired",0.98694,0.90277,1.07896
-"2","DRUG X","FED ~vs~ FASTED","AUC0_T","FASTED","paired",0.99506,0.93533,1.05861
-"3","DRUG X","FED ~vs~ FASTED","CMAX","FASTED","paired",0.72221,0.65315,0.79857
-

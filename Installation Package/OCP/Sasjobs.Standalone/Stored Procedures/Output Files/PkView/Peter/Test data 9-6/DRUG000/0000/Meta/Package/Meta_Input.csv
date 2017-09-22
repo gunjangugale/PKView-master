@@ -1,0 +1,11 @@
+"NDA","study","cohortDescription","analyte","parameter","combination","ratio","lcl","ucl","max","min","obsID","par","parcat","comp","est","r","lower","upper","minlabel","maxlabel","lowerbound","upperbound"
+"DRUG000","TEST001","Cohort","DRUG","AUC0_T","DRUG 20 MG ~vs~ DRUG 10 MG",3.1823,1.830,5.535,".",".",1,"Parameter","Para_Category","Comparison","Estimate","Ratio","Lower","Upper","Minimum","Maximum",1.5,0.5
+"DRUG000","TEST001","Cohort","DRUG","CMAX","DRUG 20 MG ~vs~ DRUG 10 MG",2.0453,1.264,3.309,".",".",2,"Parameter","Para_Category","Comparison","Estimate","Ratio","Lower","Upper","Minimum","Maximum",1.5,0.5
+"DRUG000","TEST001","Cohort","DRUG","AUC0_T","DRUG 40 MG ~vs~ DRUG 10 MG",9.7024,7.187,13.098,".",".",3,"Parameter","Para_Category","Comparison","Estimate","Ratio","Lower","Upper","Minimum","Maximum",1.5,0.5
+"DRUG000","TEST001","Cohort","DRUG","CMAX","DRUG 40 MG ~vs~ DRUG 10 MG",4.3211,3.255,5.736,".",".",4,"Parameter","Para_Category","Comparison","Estimate","Ratio","Lower","Upper","Minimum","Maximum",1.5,0.5
+"DRUG000","TEST001","Cohort","DRUG","AUC0_T","DRUG 80 MG ~vs~ DRUG 10 MG",17.8062,13.029,24.335,".",".",5,"Parameter","Para_Category","Comparison","Estimate","Ratio","Lower","Upper","Minimum","Maximum",1.5,0.5
+"DRUG000","TEST001","Cohort","DRUG","CMAX","DRUG 80 MG ~vs~ DRUG 10 MG",7.8247,6.034,10.146,".",".",6,"Parameter","Para_Category","Comparison","Estimate","Ratio","Lower","Upper","Minimum","Maximum",1.5,0.5
+"DRUG000","TEST002","FASTED-FED","DRUG X","AUC","FED ~vs~ FASTED",0.9920,0.925,1.064,1.10754,0.83622,7,"Parameter","Para_Category","Comparison","Estimate","Ratio","Lower","Upper","Minimum","Maximum",1.5,0.5
+"DRUG000","TEST002","FASTED-FED","DRUG X","AUC0_T","FED ~vs~ FASTED",0.9951,0.935,1.059,1.10160,0.85011,8,"Parameter","Para_Category","Comparison","Estimate","Ratio","Lower","Upper","Minimum","Maximum",1.5,0.5
+"DRUG000","TEST002","FASTED-FED","DRUG X","CMAX","FED ~vs~ FASTED",0.7222,0.653,0.799,0.95825,0.60177,9,"Parameter","Para_Category","Comparison","Estimate","Ratio","Lower","Upper","Minimum","Maximum",1.5,0.5
+

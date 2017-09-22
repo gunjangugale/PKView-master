@@ -1,0 +1,9 @@
+"",,,,,,"Results of Ratio and 90% CI",,
+"Analyte","Cohorts","Comparison","reference_listed","Estimated Parameters","Paired or Unpaired","Ratio","Lower Limit","Upper Limit"
+"DRUG X",1,"FED ~vs~ FASTED","FASTED","AUC","paired",0.9920,0.9246,1.0643
+,1,"FED ~vs~ FASTED","FASTED","AUC0_T","paired",0.9951,0.9353,1.0586
+,1,"FED ~vs~ FASTED","FASTED","CMAX","paired",0.7222,0.6532,0.7986
+,1,"FED ~vs~ FASTED","FASTED","AUC","unpaired",0.9920,0.9176,1.0723
+,1,"FED ~vs~ FASTED","FASTED","AUC0_T","unpaired",0.9951,0.9293,1.0655
+,1,"FED ~vs~ FASTED","FASTED","CMAX","unpaired",0.7222,0.6616,0.7884
+
